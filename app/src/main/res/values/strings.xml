@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ProblemSolver</string>
+    <string name="main_welcome">Welcome to the Problem Solver</string>
+    <string name="main_chooser">Please choose a problem:</string>
+    <string name="FWFC_chooser">FWGC</string>
+    <string name="Puzzle_chooser">8 PUZZLE</string>
+    <string name="farmer_welcome">Welcome to the FWGC Problem</string>
+    <string name="farmer_intro">"A farmer and his wolf, goat, and cabbage come to the edge  of a river they wish to cross. There is a boat at the river's edge  that only the farmer can row. The farmer can take at the most  one other object besides himself on a crossing, but if the wolf is  ever left alone with the goat, the wold will eat the goat; similarly,  if the goat is left with the cabbage, the goat will eat the cabbage.  Devise a sequence of crossings of the river so that all four characters  arrive safely on the other side. "</string>
+    <string name="begin_farmer">Begin FWGC</string>
+    <string name="puzzle_welcome">Welcome to the 8-Puzzle Problem</string>
+    <string name="puzzle_intro">You are given a board in which numbered tiles can slide around. There is one blank space that holds no tile.  A legal move consists of sliding a tile into the blank space if the tile is adjacent to it. The goal is to move tiles around until the board looks like the final state below.</string>
+    <string name="begin_puzzle">Begin 8-Puzzle</string>
+
+    /* Farmer Solver View Strings */
+    <string name="current_state">Current State</string>
+    <string name="goal_state">Goal State</string>
+    <string name="moves">Moves</string>
+    <string name="reset_button">Reset</string>
+    <string name="solve_button">Solve</string>
+    <string name="next_button">Next</string>
+    <string name="benchmark_text">Benchmarks:</string>
+    <item name="farmer_solve_start" type="id" />
+    <item name="farmer_solve_final" type="id" />
+    <string name="goes_alone">Goes Alone</string>
+    <string name="takes_goat">Takes Goat</string>
+    <string name="takes_cabbage">Takes Cabbage</string>
+    <string name="takes_wolf">Takes Wolf</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="move_count_text">0</string>
+    <item name="stats_info" type="id" />
+
+    /* Puzzle Solver View String */
+    <item name="puzzle_solve_start" type="id" />
+    <item name="puzzle_solve_final" type="id" />
+    <item name="puzzle_message" type="id" />
+    <string name="tile_1">Slide Tile 1</string>
+    <string name="tile_2">Slide Tile 2</string>
+    <string name="tile_3">Slide Tile 3</string>
+    <string name="tile_4">Slide Tile 4</string>
+    <string name="tile_5">Slide Tile 5</string>
+    <string name="tile_6">Slide Tile 6</string>
+    <string name="tile_7">Slide Tile 7</string>
+    <string name="tile_8">Slide Tile 8</string>
+
+</resources>
